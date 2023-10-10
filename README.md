@@ -1,7 +1,5 @@
 ### Opaa, Eu sou o Yan Di Nápoli 👋
 
- 
- 
 - 💡 Fascinado por tecnologia
 - 👨‍💻 Sou estudante de Ciẽncia da Computação
 - 💻 Em paralelo à faculdade estudo e trabalho com desenvolvimento Front-end
