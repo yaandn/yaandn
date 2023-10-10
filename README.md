@@ -3,7 +3,7 @@
 
 
 - 💡 Fascinado por tecnologia
-- 👨‍💻 Sou estudante de Ciẽncia da Computação
+- 👨‍💻 Sou estudante de Ciência da Computação
 - 💻 Em paralelo à faculdade estudo e trabalho com desenvolvimento Front-end
   
   <br/>
