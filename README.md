@@ -1,6 +1,6 @@
 ### Opaa, Eu sou o Yan Di Nápoli 👋
 
- <br/>
+ 
  
 - 💡 Fascinado por tecnologia
 - 👨‍💻 Sou estudante de Ciẽncia da Computação
