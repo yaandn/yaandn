@@ -1,10 +1,13 @@
 ### Opaa, Eu sou o Yan Di Nápoli 👋
 
+
+
 - 💡 Fascinado por tecnologia
 - 👨‍💻 Sou estudante de Ciẽncia da Computação
 - 💻 Em paralelo à faculdade estudo e trabalho com desenvolvimento Front-end
-
+  
   <br/>
+  
 <div>
        <a href="https://github.com/yaandn/github-readme-stats">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yaandn&show_icons=true&theme=transparent" />
