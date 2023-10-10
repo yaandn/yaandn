@@ -38,7 +38,10 @@
   
 </div>
 
-  ![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/artur-debv/yaandn/blob/output/github-contribution-grid-snake.svg)
+
+   
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=yaandn&repo=artur-debv&theme=react)](https://github.com/yaandn/artur-debv)
   
 
 
